@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+PythonPackage.egg-info/PKG-INFO
+PythonPackage.egg-info/SOURCES.txt
+PythonPackage.egg-info/dependency_links.txt
+PythonPackage.egg-info/requires.txt
+PythonPackage.egg-info/top_level.txt
+pythonpackage/__init__.py
+pythonpackage/data/__init__.py
+pythonpackage/data/raw/data.yml
+pythonpackage/utils/__init__.py
+pythonpackage/utils/fun.py

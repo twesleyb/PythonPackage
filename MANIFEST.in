@@ -1,0 +1,2 @@
+include README.md
+include pythonpackage/data/raw/*.*
